@@ -1,0 +1,6 @@
+1. go to any region here we choose ohio(us-east-2)
+2. create the default vpc
+3. go to EC2 section-->select instances--->launch instance--->copy the AMI id of any instance
+4. go to EC2 instance --> network and security---> keypairs--> create newpair
+   let us create keypair as cfn-key-1 and cfn-key-2
+

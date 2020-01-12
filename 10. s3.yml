@@ -1,0 +1,7 @@
+AWSTemplateFormatVersion: 2010-09-09
+Resources:
+ MYS3Bucket:
+  Type: "AWS::S3::Bucket"
+  Properties:
+   BucketName: mys3bucket9101023
+   AccessControl: PublicReadWrite
